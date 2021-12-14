@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phenexjay
-- 👀 I’m interested in GTK-programming, PyGTK.. 
+- 👀 I’m interested in GTK-programming, PyGTK, web development. 
 - 🌱 I’m currently learning JavaScript, CSS, HTML
 - 💞️ I’m looking to collaborate on nothing. 
 - 📫 How to reach me ...
